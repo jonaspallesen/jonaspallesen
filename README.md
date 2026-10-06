@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Jonas 👋
 
-<!--
-**jonaspallesen/jonaspallesen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc student in Digital Business Management at Aarhus BSS with an interest in the intersection of business, data, AI, and technology.
 
-Here are some ideas to get you started:
+## Currently exploring
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Generative AI
+- Data analytics
+- Digital business
+
+## Projects
+
+I'm currently building practical projects focused on applying technology to real business problems.
